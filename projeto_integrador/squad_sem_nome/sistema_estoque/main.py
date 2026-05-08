@@ -1,5 +1,5 @@
 from produtos import cadastrar_produto
-from movimentacao import realizar_venda
+from movimentacao import processar_venda
 from relatorios import curva_abc
 from utils import limpar_tela
 
@@ -18,7 +18,7 @@ while True:
 
     elif opcao == "2":
         limpar_tela()
-        realizar_venda()
+        processar_venda()
 
     elif opcao == "3":
         limpar_tela()
