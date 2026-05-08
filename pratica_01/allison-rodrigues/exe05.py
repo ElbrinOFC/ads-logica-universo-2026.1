@@ -1,4 +1,3 @@
-# Pedindo os dados ao usuário
 tamanho_mb = float(input("Digite o tamanho do arquivo (MB): "))
 velocidade_mbps = float(input("Digite a velocidade da internet (Mbps): "))
 
