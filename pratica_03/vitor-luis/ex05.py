@@ -1,3 +1,6 @@
+# ex05.py
+# Boletim simples com modularizacao
+
 def ler_notas():
     n1 = int(input("Digite a primeira nota: "))
     n2 = int(input("Digite a segunda nota: "))

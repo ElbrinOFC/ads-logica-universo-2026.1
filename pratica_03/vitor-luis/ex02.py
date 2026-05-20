@@ -1,3 +1,6 @@
+# ex02.py
+# Soma com parametros
+
 def somar(a, b):
     return a + b
 

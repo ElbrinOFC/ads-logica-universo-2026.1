@@ -1,3 +1,6 @@
+# ex07.py
+# Refatorando codigo monolitico
+
 def calcular_media():
     n1 = int(input("Digite a primeira nota: "))
     n2 = int(input("Digite a segunda nota: "))

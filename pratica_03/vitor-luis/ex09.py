@@ -1,3 +1,6 @@
+# ex09.py
+# Depuracao de erro de execucao
+
 def dividir(a, b):
     if b == 0:
         return "ERRO: Divisor não pode ser zero"

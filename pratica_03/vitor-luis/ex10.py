@@ -1,3 +1,6 @@
+# ex10.py
+# Teste de mesa + caso de teste
+
 def calcular_total(preco, quantidade):
     subtotal = preco * quantidade
     desconto = subtotal * 0.1

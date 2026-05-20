@@ -1,3 +1,6 @@
+# ex08.py
+# Depuracao de erro sintatico
+
 def saudacao(nome):
     print("Ola,", nome)
 

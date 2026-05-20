@@ -1,3 +1,6 @@
+# ex06.py
+# Escopo basico na pratica
+
 x = 10 # Variável global
 
 def teste():
