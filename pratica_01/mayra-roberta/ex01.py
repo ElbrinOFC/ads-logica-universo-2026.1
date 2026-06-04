@@ -1,0 +1,5 @@
+nome = input("Qual seu nome?")
+idade = int(input("Qual o ano do seu nascimento?"))
+altura = float(input("Qual sua altura?"))
+
+print("Olá, " + nome + "! Você tem " + str(2026 - idade) + " anos e mede " + str(altura) + " metros de altura.")
